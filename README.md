@@ -5,4 +5,8 @@ Projeto Jogo da Velha utilizando:
 - CSS
 - JavaScript
 
-Projeto realizado para treinar logica de programação e também HTML e CSS.
+Projeto realizado para treinar logica de programação e também HTML,CSS e JavaScript.
+
+Deploy: https://edicleia.heerdt.com.br/jogodavelha/
+
+Acesse e fique a vontade para brincar!
